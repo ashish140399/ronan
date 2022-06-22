@@ -68,7 +68,7 @@ const Landing = () => {
                         Game Developer
                     </h3>
                     <p className="mt-4 text-base text-gray-500">
-                        Professional Game Developer since 2010. Founder of
+                        Professional Game Developer since 2010. Founder of &nbsp;
                         <a className="underline" href="https://etherplay.io"
                             >Etherplay</a
                         >, now working on my latest crypto native game:
@@ -95,26 +95,26 @@ const Landing = () => {
                         Web3 Architect
                     </h3>
                     <p className="mt-4 text-base text-gray-500">
-                        Participating in Web3 Standard like
+                        Participating in Web3 Standard like &nbsp;
                         <a
                             className="underline"
                             href="https://eips.ethereum.org/EIPS/eip-1155"
-                            >EIP-1155</a
-                        >
-                        while also building tools for the web3 /
+                            >EIP-1155 &nbsp;</a
+                        >  
+                        while also building tools for the web3 / &nbsp;
                         <a
                             href="https://ethereum.org"
                             target="_blank"
                             className="underline"
-                            >ethereum</a
-                        >
-                        ecosystem, including
+                            >ethereum </a
+                        >&nbsp;
+                        ecosystem, including&nbsp;
                         <a
                             className="underline"
                             href="https://github.com/wighawag/hardhat-deploy"
                             >hardhat-deploy</a
-                        >
-                        and
+                        >&nbsp;
+                        and&nbsp;
                         <a
                             className="underline"
                             href="https://jolly-roger.eth.limo"
@@ -139,13 +139,13 @@ const Landing = () => {
                     </h3>
                     <p className="mt-4 text-base text-gray-500">
                         I like to tinker with technology in general and been
-                        delving in generative art and fully on-chain NFTs with
+                        delving in generative art and fully on-chain NFTs with&nbsp;
                         <a
                             className="underline"
                             href="https://mandalas.eth.limo"
                             >Mandalas</a
-                        >
-                        and
+                        >&nbsp;
+                        and&nbsp;
                         <a className="underline" href="https://bleeps.art"
                             >Bleeps</a
                         >
